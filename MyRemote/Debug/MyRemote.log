@@ -1,0 +1,6 @@
+﻿  MyRemote.cpp
+  MyRemoteDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\MyRemoteDlg.cpp(179,19): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\MyRemoteDlg.cpp(184,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码...
+  MyRemote.vcxproj -> D:\learning record\学术报告\Gh0st\MyRemote\Debug\MyRemote.exe

@@ -1,0 +1,77 @@
+﻿D:\Learning software\visual studio\visual studio IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  pch.cpp
+  Audio.cpp
+D:\learning record\学术报告\Gh0st\common\Audio.cpp(99,20): warning C4018: “<”: 有符号/无符号不匹配
+  CAudioDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CAudioDlg.cpp(30,44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CCreatServerDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CCreatServerDlg.cpp(98,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyRemote\CCreatServerDlg.cpp(110,30): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyRemote\CCreatServerDlg.cpp(128,27): warning C4101: “e”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyRemote\CCreatServerDlg.cpp(132,25): warning C4101: “e”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyRemote\CCreatServerDlg.cpp(136,21): warning C4101: “e”: 未引用的局部变量
+  CFileManagerDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\InputDlg.h(69,15): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(80,44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(359,29): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(360,32): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(860,10): warning C4101: “VolName”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(861,10): warning C4101: “FileSystem”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(1122,44): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(1604,15): warning C4129: “*”: 不可识别的字符转义序列
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(1900,15): warning C4129: “*”: 不可识别的字符转义序列
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(1924,15): warning C4129: “*”: 不可识别的字符转义序列
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(1941,15): warning C4129: “*”: 不可识别的字符转义序列
+D:\learning record\学术报告\Gh0st\MyRemote\CFileManagerDlg.cpp(1985,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  CProcessDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CProcessDlg.cpp(80,66): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CScreenSpyDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CScreenSpyDlg.cpp(58,44): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\CScreenSpyDlg.cpp(603,16): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\learning record\学术报告\Gh0st\MyRemote\CScreenSpyDlg.cpp(617,17): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  CServerDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CServerDlg.cpp(56,66): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CSettingDlg.cpp
+  CShellDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CShellDlg.cpp(78,66): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\CShellDlg.cpp(102,10): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyRemote\CShellDlg.cpp(186,43): warning C4018: “<=”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyRemote\CShellDlg.cpp(196,11): warning C4018: “<”: 有符号/无符号不匹配
+  CWindowsDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\CWindowsDlg.cpp(103,66): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  FileTransferModeDlg.cpp
+  Buffer.cpp
+  CpuUsage.cpp
+  IOCPServer.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\include\IOCPServer.cpp(131,16): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\include\IOCPServer.cpp(173,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\include\IOCPServer.cpp(719,37): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\include\IOCPServer.cpp(768,26): warning C4244: “初始化”: 从“double”转换到“unsigned long”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyRemote\include\IOCPServer.cpp(914,64): warning C4018: “>=”: 有符号/无符号不匹配
+  IniFile.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\IniFile.cpp(34,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InputDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\InputDlg.h(69,15): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+D:\learning record\学术报告\Gh0st\MyRemote\InputDlg.cpp(124,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyRemote\InputDlg.cpp(159,39): warning C4302: “类型强制转换”: 从“LPSTR”到“WORD”截断
+  MyRemote.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\SEU_QQwry.h(11,30): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  MyRemoteDlg.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\SEU_QQwry.h(11,30): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\learning record\学术报告\Gh0st\MyRemote\MyRemoteDlg.cpp(980,19): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\MyRemoteDlg.cpp(985,12): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyRemote\MyRemoteDlg.cpp(1081,39): warning C4018: “<=”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyRemote\MyRemoteDlg.cpp(1173,51): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  SEU_QQwry.cpp
+D:\learning record\学术报告\Gh0st\MyRemote\SEU_QQwry.h(11,30): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  TrueColorToolBar.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 806 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+nafxcw.lib(afxmem.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z) 已在 LIBCMT.lib(new_scalar.obj) 中定义；已忽略第二个定义
+nafxcw.lib(afxmem.obj) : warning LNK4006: "void __cdecl operator delete(void *)" (??3@YAXPAX@Z) 已在 LIBCMT.lib(delete_scalar.obj) 中定义；已忽略第二个定义
+nafxcw.lib(afxmem.obj) : warning LNK4006: "void * __cdecl operator new[](unsigned int)" (??_U@YAPAXI@Z) 已在 LIBCMT.lib(new_array.obj) 中定义；已忽略第二个定义
+nafxcw.lib(afxmem.obj) : warning LNK4006: "void __cdecl operator delete[](void *)" (??_V@YAXPAX@Z) 已在 LIBCMT.lib(delete_array.obj) 中定义；已忽略第二个定义
+..\bin\MyRemote.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  MyRemote.vcxproj -> D:\learning record\学术报告\Gh0st\MyRemote\..\bin\MyRemote.exe

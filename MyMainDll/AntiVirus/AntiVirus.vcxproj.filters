@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AntiVirus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientSocket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StrCry.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\AudioManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\Buffer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CProcessManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\CWindowsManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\Dialupass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\FileManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\install.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\KernelManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\KeyboardManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\Manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\RegEditEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\RegeditOpt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\RegManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\ScreenManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\ScreenSpy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\ServerManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\ShellManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\until.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\VideoCap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\VideoManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\common\Audio.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ClientSocket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicAPI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StrCry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\AudioManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\Buffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CProcessManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\CWindowsManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\decode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\Dialupass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\filemanager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\hidelibrary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\inject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\install.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\KernelManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\KeyboardManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\login.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\loop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\Manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\RegEditEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\RegeditOpt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\RegManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\resetssdt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\ScreenManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\ScreenSpy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\ServerManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\ShellManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\until.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\VideoCap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\VideoManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

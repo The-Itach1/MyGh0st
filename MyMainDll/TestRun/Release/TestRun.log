@@ -1,0 +1,8 @@
+﻿D:\Learning software\visual studio\visual studio IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  源.cpp
+  正在生成代码
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TestRun.vcxproj -> D:\learning record\学术报告\Gh0st\MyMainDll\TestRun\..\..\bin\server\TestRun.exe

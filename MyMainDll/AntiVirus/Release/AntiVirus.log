@@ -1,0 +1,857 @@
+﻿D:\Learning software\visual studio\visual studio IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+cl : 命令行 warning D9002: 忽略未知选项“/Zc:stricStrings”
+  Audio.cpp
+D:\learning record\学术报告\Gh0st\common\Audio.cpp(99,20): warning C4018: “<”: 有符号/无符号不匹配
+  AntiVirus.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(38,25): warning C4101: “pEnd”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(157,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(158,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(159,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(160,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(161,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(201,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(202,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(203,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(204,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\login.h(231,2): warning C4996: 'GetVersionExA': 被声明为已否决
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\AntiVirus.cpp(55,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ClientSocket.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\ClientSocket.cpp(70,14): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\ClientSocket.cpp(72,14): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\ClientSocket.cpp(208,22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\ClientSocket.cpp(325,54): warning C4018: “>=”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\ClientSocket.cpp(426,25): warning C4244: “初始化”: 从“double”转换到“unsigned long”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\ClientSocket.cpp(481,26): warning C4018: “>=”: 有符号/无符号不匹配
+  AudioManager.cpp
+  Buffer.cpp
+  CProcessManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.h(62,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\CProcessManager.cpp(116,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\CProcessManager.cpp(205,10): warning C4101: “cbNeeded”: 未引用的局部变量
+  CWindowsManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.h(62,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Dialupass.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.h(62,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.cpp(139,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.cpp(143,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.cpp(147,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\Dialupass.cpp(208,5): warning C4996: 'GetVersionExA': 被声明为已否决
+  FileManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,56): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,56): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,61): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,61): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,66): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,66): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,71): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,76): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,76): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,81): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,81): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,86): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,86): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,91): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,91): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,96): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,96): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,101): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,101): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,106): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,106): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,111): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,111): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,116): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,116): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,121): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,121): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,126): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,126): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,131): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,131): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,136): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(213,136): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,26): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,26): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,31): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,31): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,56): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,56): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,61): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,61): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,66): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,66): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,71): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,76): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,76): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,81): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,81): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,86): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,86): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,91): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,91): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,96): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(247,96): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(291,29): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(292,32): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(442,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(614,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  install.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\install.cpp(7,8): warning C4101: “Desc”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\install.cpp(121,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\install.cpp(120,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\install.cpp(215,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\install.cpp(214,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  KernelManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,26): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,26): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,31): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,31): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,56): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,56): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,61): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,61): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,66): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,66): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,71): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,76): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,76): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,81): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,81): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,86): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,86): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,91): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,91): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,96): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(196,96): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,31): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,31): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(218,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(219,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(220,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(221,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(222,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,26): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,26): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,31): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,31): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,56): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,56): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,61): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,61): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,66): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,66): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,71): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,76): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,76): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,81): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,81): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,86): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,86): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,91): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,91): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,96): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(260,96): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,30): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,30): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,35): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,40): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,40): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,45): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,45): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,50): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,50): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,55): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,55): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,60): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,60): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,65): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,70): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,70): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,75): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,75): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,80): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(279,80): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,57): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,57): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,62): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(280,62): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,20): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,20): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,25): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,25): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,30): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,30): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,35): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,40): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,40): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,45): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(281,45): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(311,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(312,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(313,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,3): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,3): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,8): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,8): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,13): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,13): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,18): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,18): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,23): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,23): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,28): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,28): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\loop.h(314,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(43,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,57): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,57): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,62): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,62): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,67): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,67): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,72): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,72): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,77): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,82): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KernelManager.cpp(156,82): warning C4309: “初始化”: 截断常量值
+  KeyboardManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KeyboardManager.cpp(33,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\KeyboardManager.cpp(307,21): warning C4018: “<”: 有符号/无符号不匹配
+  Manager.cpp
+  RegEditEx.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(10,6): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,30): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,30): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,35): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,40): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,40): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,45): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,45): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,50): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,50): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,55): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(75,55): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,57): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,57): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,62): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,62): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,67): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,67): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,72): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,72): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,77): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,82): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,82): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,87): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,87): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,92): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,92): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,97): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(76,97): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,34): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,34): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,39): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,39): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,44): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,44): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,49): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,49): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,54): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,54): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,59): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,64): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,64): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,69): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,69): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,74): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,74): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,79): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(77,79): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,56): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,56): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,61): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,61): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,66): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,66): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,71): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,76): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,76): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,81): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,81): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,86): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,86): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,91): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(78,91): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,53): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,58): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,58): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,63): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,63): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,68): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,68): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,73): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(79,73): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(110,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(124,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(151,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(121,7): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegEditEx.cpp(122,10): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RegeditOpt.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(71,28): warning C4305: “=”: 从“<unnamed-enum-TRANSFER_MODE_NORMAL>”到“char”截断
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(71,14): warning C4309: “=”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(83,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(55,34): warning C4101: “DateSize”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(54,53): warning C4101: “Type”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(54,25): warning C4101: “NameSize”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(126,24): warning C4305: “=”: 从“<unnamed-enum-TRANSFER_MODE_NORMAL>”到“char”截断
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(126,11): warning C4309: “=”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(164,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(98,8): warning C4101: “szKeyName”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(106,9): warning C4101: “KeySize”: 未引用的局部变量
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(182,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RegManager.cpp
+  ScreenManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\ScreenManager.cpp(5,1): warning C4005: “_WIN32_WINNT”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : 参见“_WIN32_WINNT”的前一个定义
+  ScreenSpy.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\ScreenSpy.cpp(379,14): warning C4018: “>”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\ScreenSpy.cpp(400,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\ScreenSpy.cpp(419,21): warning C4018: “<”: 有符号/无符号不匹配
+  ServerManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\ServerManager.cpp(291,8): warning C4102: “defaute”: 未引用的标签
+  ShellManager.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\ShellManager.cpp(59,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在编译...
+  until.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(69,7): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,57): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,57): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,62): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,62): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,67): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,67): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,72): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,72): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,77): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,82): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(103,82): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(176,6): warning C4996: 'GetVersionExA': 被声明为已否决
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(179,7): warning C4996: 'GetVersionExA': 被声明为已否决
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,27): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,27): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,32): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,32): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,37): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,37): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,42): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,42): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,47): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,52): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,52): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,57): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,57): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,62): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(292,62): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,26): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,26): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,31): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,31): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,36): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,36): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,41): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,46): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,46): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,51): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,51): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,56): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,56): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,61): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,61): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,66): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,66): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,71): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,76): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,76): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,81): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,81): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,86): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,86): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,91): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,91): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,96): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,96): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,101): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,101): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,106): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,106): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,111): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,111): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,116): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,116): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,121): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,121): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,126): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,126): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,131): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,131): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,136): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,136): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,141): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\until.cpp(324,141): warning C4309: “初始化”: 截断常量值
+  VideoCap.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,53): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,58): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(27,58): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,33): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,33): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,38): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,38): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,43): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,43): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,48): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,48): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,53): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,58): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,58): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,63): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,63): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,68): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,68): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,73): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,73): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,78): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,78): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,83): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,88): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,88): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,93): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,93): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,98): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(36,98): warning C4309: “初始化”: 截断常量值
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\VideoCap.cpp(125,15): warning C4101: “gCapTureParms”: 未引用的局部变量
+  VideoManager.cpp
+  pch.cpp
+  StrCry.cpp
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\StrCry.cpp(8,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\StrCry.cpp(10,41): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+LINK : warning LNK4044: 无法识别的选项“/Zc:strictStrings”；已忽略
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\RegeditOpt.cpp(113): warning C4700: 使用了未初始化的局部变量“NameSize”
+D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\common\FileManager.cpp(260): warning C4715: “CFileManager::OpenFile”: 不是所有的控件路径都返回值
+  All 379 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AntiVirus.vcxproj -> D:\learning record\学术报告\Gh0st\MyMainDll\AntiVirus\..\..\bin\server\AntiVirus.exe
